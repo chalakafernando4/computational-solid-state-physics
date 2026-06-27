@@ -6,17 +6,6 @@ tight-binding bands, semiconductor carrier estimates, heat capacity models, and
 the 2D Ising model. The repository now includes scripts, notebooks, a Streamlit
 app, and animation examples.
 
-This project is inspired by standard undergraduate solid state physics topics,
-including the style of material covered in Kittel. It does not include copied
-book text, figures, or problem statements.
-
-## Why this is a good GitHub project
-
-- It connects physics theory to runnable numerical experiments.
-- It produces clear plots for a portfolio or research notebook.
-- It is modular enough to grow into a larger educational package.
-- It demonstrates Python, NumPy, Matplotlib, testing, and scientific reasoning.
-
 ## Project structure
 
 ```text
